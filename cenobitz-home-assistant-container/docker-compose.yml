@@ -10,8 +10,8 @@ services:
       - /home/umbrel/umbrel/app-data/homeassistant-container/config:/config
       - /etc/localtime:/etc/localtime:ro
     restart: unless-stopped
-    ports:
-      - "8123:8123/tcp"
+ #   ports:
+ #     - "8123:8123/tcp"
     privileged: true
     network_mode: host
 
