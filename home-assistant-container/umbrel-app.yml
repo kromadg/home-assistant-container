@@ -1,0 +1,38 @@
+manifestVersion: 1
+id: home-assistant-container
+name: Home Assistant Container
+tagline: Home automation that puts local control & privacy first
+icon: https://design.home-assistant.io/images/logo-variants.png
+category: Automation
+version: "2023.2.4"
+port: 8123
+description: >-
+  Home Assistant Container version!
+
+  Open source home automation that puts local control and privacy
+  first, powered by a worldwide community of tinkerers and DIY enthusiasts. Home
+  Assistant integrates with over a thousand different devices and services. Once
+  you have integrated all your devices at home, you can unleash Home Assistant’s
+  advanced automation engine to make your home work for you. Examples: 
+  
+  - Turn on the light when the sun sets or when coming home 
+  
+  - Alert you when you leave your garage door open 
+  
+  All your smart home data stays local. Home Assistant communicates with your devices locally, and will fallback to pulling in data from the cloud if there is no other option. No data is stored in the cloud, and everything is processed locally.
+
+developer: Home Assistant
+website: https://home-assistant.io
+submitter: Umbrel
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/home-assistant/core
+support: https://community.home-assistant.io
+gallery:
+  - https://raw.githubusercontent.com/home-assistant/core/master/docs/screenshots.png
+  - https://raw.githubusercontent.com/home-assistant/core/dev/docs/screenshot-integrations.png
+releaseNotes: >-
+   Full changelog (for 2023.2.4) can found at: https://www.home-assistant.io/changelogs/core-2023.2
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
