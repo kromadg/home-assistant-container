@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: home-assistant-container
+id: cenobitz-home-assistant-container
 name: Home Assistant Container
 tagline: Home automation that puts local control & privacy first
 icon: https://design.home-assistant.io/images/logo-variants.png
