@@ -2,7 +2,7 @@ manifestVersion: 1
 id: cenobitz-portainer
 name: Portainer
 tagline: Portainer CE - a lightweight service delivery platform for containerized applications
-icon: portainer-logo.png
+icon: https://secure.gravatar.com/avatar/681edab450c1ebab7d83e7266b1d0fbb.jpg?s=120&r=g&d=404
 category: Infrastructure
 version: "2.17.1"
 port: 9000
