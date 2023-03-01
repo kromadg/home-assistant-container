@@ -3,7 +3,7 @@ id: cenobitz-grafana
 name: Grafana
 tagline: The open-source platform for monitoring and observability
 icon: https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png
-category: Automation
+category: Monitoring
 version: "9.4.1"
 port: 3000
 description: >-
