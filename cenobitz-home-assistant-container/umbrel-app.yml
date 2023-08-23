@@ -4,7 +4,7 @@ name: Home Assistant Container
 tagline: Home automation that puts local control & privacy first
 icon: https://design.home-assistant.io/images/logo-variants.png
 category: Automation
-version: "2023.2.4"
+version: "2023.8.3"
 port: 8123
 description: >-
   Home Assistant Container version!
