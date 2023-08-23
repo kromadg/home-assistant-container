@@ -12,3 +12,4 @@ services:
     volumes:
       - /home/umbrel/umbrel/app-data/homeassistant-container/config:/config
       - /etc/localtime:/etc/localtime:ro
+      - /run/dbus:/run/dbus:ro
