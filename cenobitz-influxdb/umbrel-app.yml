@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: cenobitz-influxdb-container
+name: InfluxDB Container
+tagline: InfluxDB is a time series database built from the ground up to handle high write and query loads
+icon: https://styles.redditmedia.com/t5_31hyn/styles/communityIcon_c6atlmcx6gi81.png
+category: Automation
+version: "2.7.3"
+port: 8086
+description: >-
+  InfluxDB is a time series database built from the ground up to handle high write and query loads. 
+  InfluxDB is meant to be used as a backing store for any use case involving large amounts of timestamped data, including DevOps monitoring, application metrics, IoT sensor data, and real-time analytics.
+
+developer: InfluxDB
+website: https://www.influxdata.com
+submitter: Umbrel
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/influxdata/influxdb
+support: https://community.influxdata.com
+gallery:
+releaseNotes: >-
+   Full changelog (for 2.7.3) can be found at: https://github.com/influxdata/influxdb/releases/tag/v2.7.3
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

@@ -1,0 +1,13 @@
+version: "3.0"
+
+services:
+  influxdb:
+    container_name: influxdb
+    image: influxdb:1.8.10
+    restart: always
+    privileged: true
+    ports:
+      - "8086:8086/tcp"
+    volumes:
+      - /var/lib/influxdb:/var/lib/influxdb 
+      - /home/umbrel/umbrel/app-data/influxdb:/data
