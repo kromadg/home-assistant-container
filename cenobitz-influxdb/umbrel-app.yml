@@ -3,7 +3,7 @@ id: cenobitz-influxdb-container
 name: InfluxDB Container
 tagline: InfluxDB is a time series database built from the ground up to handle high write and query loads
 icon: https://styles.redditmedia.com/t5_31hyn/styles/communityIcon_c6atlmcx6gi81.png
-category: Automation
+category: Database
 version: "2.7.3"
 port: 8086
 description: >-
@@ -17,6 +17,8 @@ submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/influxdata/influxdb
 support: https://community.influxdata.com
 gallery:
+  - https://raw.githubusercontent.com/home-assistant/core/master/docs/screenshots.png
+  - https://raw.githubusercontent.com/home-assistant/core/dev/docs/screenshot-integrations.png
 releaseNotes: >-
    Full changelog (for 2.7.3) can be found at: https://github.com/influxdata/influxdb/releases/tag/v2.7.3
 dependencies: []
