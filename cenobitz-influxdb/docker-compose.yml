@@ -4,7 +4,7 @@ services:
   influxdb2:
     container_name: influxdb2
     image: influxdb:2.7.3
-    restart: unless-stopped
+    restart: always
     privileged: true
     ports:
       - "8086:8086/tcp"
