@@ -4,7 +4,7 @@ name: InfluxDB 2
 tagline: InfluxDB is a time series database built from the ground up to handle high write and query loads
 icon: https://styles.redditmedia.com/t5_31hyn/styles/communityIcon_c6atlmcx6gi81.png
 category: Database
-version: "2.7.3.1"
+version: "2.7.3"
 port: 8086
 description: >-
   InfluxDB is a time series database built from the ground up to handle high write and query loads. 

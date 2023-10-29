@@ -7,8 +7,6 @@ services:
     restart: unless-stopped
     privileged: true
     network_mode: host
-    ports:
-      - "8086:8086/tcp"
     volumes:
       - /var/lib/influxdb2:/var/lib/influxdb2 
       - /home/umbrel/umbrel/app-data/influxdb:/data
