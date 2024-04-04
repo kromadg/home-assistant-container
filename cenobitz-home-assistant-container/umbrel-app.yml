@@ -4,7 +4,7 @@ name: Home Assistant Container
 tagline: Home automation that puts local control & privacy first
 icon: https://design.home-assistant.io/images/logo-variants.png
 category: Automation
-version: "2024.1.5"
+version: "2024.4.0"
 port: 8123
 description: >-
   Home Assistant Container version!
@@ -31,7 +31,7 @@ gallery:
   - https://raw.githubusercontent.com/home-assistant/core/master/docs/screenshots.png
   - https://raw.githubusercontent.com/home-assistant/core/dev/docs/screenshot-integrations.png
 releaseNotes: >-
-   Full changelog (for 2024.1.5) can found at: https://www.home-assistant.io/changelogs/core-2024.1
+   Full changelog (for 2024.1.5) can found at: https://www.home-assistant.io/changelogs/core-2024.4
 dependencies: []
 path: ""
 defaultUsername: ""
