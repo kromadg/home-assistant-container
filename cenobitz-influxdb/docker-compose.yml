@@ -3,7 +3,7 @@ version: "3.0"
 services:
   influxdb2:
     container_name: influxdb2
-    image: influxdb:2.7.3
+    image: influxdb:2.7.6
     restart: always
     privileged: true
     ports:

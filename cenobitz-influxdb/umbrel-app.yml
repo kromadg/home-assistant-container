@@ -4,7 +4,7 @@ name: InfluxDB 2
 tagline: InfluxDB is a time series database built from the ground up to handle high write and query loads
 icon: https://styles.redditmedia.com/t5_31hyn/styles/communityIcon_c6atlmcx6gi81.png
 category: Database
-version: "2.7.5"
+version: "2.7.6"
 port: 8086
 description: >-
   InfluxDB is a time series database built from the ground up to handle high write and query loads. 
@@ -19,7 +19,7 @@ support: https://community.influxdata.com
 gallery:
   - https://www.influxdata.com/wp-content/uploads/Pre-canned-dashboards-influxdb.png
 releaseNotes: >-
-   Full changelog (for 2.7.3) can be found at: https://github.com/influxdata/influxdb/releases/tag/v2.7.3
+   Full changelog (for 2.7.6) can be found at: https://github.com/influxdata/influxdb/releases/tag/v2.7.6
 dependencies: []
 path: ""
 defaultUsername: ""
