@@ -9,5 +9,5 @@ services:
     ports:
       - "8086:8086/tcp"
     volumes:
-      - /var/lib/influxdb2:/var/lib/influxdb2 
-      - /home/umbrel/umbrel/app-data/influxdb:/data
+      - /home/umbrel/umbrel/app-data/influxdb2/data:/var/lib/influxdb2 
+      - /home/umbrel/umbrel/app-data/influxdb2/config:/etc/influxdb2
